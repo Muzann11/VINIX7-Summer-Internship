@@ -64,4 +64,5 @@ def preprocess_description(df, column_name):
 df = pd.read_csv('data/postings.csv')
 text = preprocess_description(df, 'description')
 
-print(text[:500])  # Print first 500 characters of the cleaned text
+# print(text[:500])  # Print first 500 characters of the cleaned text
+
