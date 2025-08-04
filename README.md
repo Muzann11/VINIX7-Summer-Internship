@@ -1,4 +1,4 @@
-# 🇮🇩 VINIX7 Internship – Analisis Pengangguran & Kebutuhan Pasar Kerja
+# VINIX7 Internship – Analisis Pengangguran & Kebutuhan Pasar Kerja
 
 Repositori ini berisi hasil tugas selama 4 minggu dalam program **VINIX7 Summer Internship**, mencakup dua topik besar:
 
